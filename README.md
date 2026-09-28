@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Gurnoor. I love computers, and i'd love to work at the forefront of Computing one day.
+I'm Gurnoor. I love computers, and I'm currently working as a Full Stack Engineer, but exploring systems programming and GPU Programming on the DL but not really DL because I'm very interested in learning this and maybe working as a Systems Engineer for a full time role.
